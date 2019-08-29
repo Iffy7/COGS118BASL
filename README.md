@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ASL Image Recognition
 
 Image recognition on ASL signed alphabet using machine learning and computer vision techniques.
@@ -47,3 +48,6 @@ Possible future expansion of this project can include motion capture and identif
 * OpenCV's [Canny Edge Detection](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_canny/py_canny.html) provided the edge detection module.
 * Our dataset was taken from Akash's [ASL Alphabet](https://www.kaggle.com/grassknoted/asl-alphabet).
 
+=======
+# COGS118BASL
+>>>>>>> e76014419d05e328281102e8b67bcad3c31703f0
